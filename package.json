@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Babel plugin to make your code lit AF 🔥",
   "engines": {
-    "node": 6
+    "node": ">=6"
   },
   "main": "./dist/index.js",
   "files": [
