@@ -56,6 +56,6 @@ export default Banger;// damn
 [1]: http://www.urbandictionary.com/define.php?term=ad+lib
 [2]: https://twitter.com/mannynotfound/status/853407691468943360
 [3]: https://github.com/mannynotfound
-[4]: https://astexplorer.net/#/gist/8c34b6dff0bbfb3832d420314b148d13/568bd382566a521b9ad3972eb416dba8821291f7
+[4]: https://astexplorer.net/#/gist/8c34b6dff0bbfb3832d420314b148d13/212c59c63517d73d1aaf7d224cfbec055587ade6
 [5]: https://genius.com/Rap-genius-ad-libs-explained-lyrics
 [6]: http://therapboard.com/
