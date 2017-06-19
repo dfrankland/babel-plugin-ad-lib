@@ -6,6 +6,7 @@ export default {
   format: 'cjs',
   plugins: [
     babel({
+      babelrc: false,
       comments: false,
       presets: [
         [
