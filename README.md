@@ -1,5 +1,7 @@
 # babel-plugin-ad-lib
 
+A Babel plugin to make your code lit AF 🔥
+
 > Generally redundant improvised or unrehearsed lines that are frequently used
 > in rap music. &mdash; [Urban Dictionary][1]
 
